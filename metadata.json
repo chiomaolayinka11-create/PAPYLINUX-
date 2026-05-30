@@ -1,0 +1,6 @@
+{
+  "name": "Termux Automation Agent",
+  "description": "A local automation and task execution AI Agent that dispatches tasks and command flows into the Termux app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
